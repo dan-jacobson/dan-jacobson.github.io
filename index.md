@@ -16,8 +16,9 @@ A former biomedical engineer turned data scientist and machine learning engineer
 
 ### A Video
 
-<iframe width="560"
+{% include youtube.html id='7D5BvkOPrvs' %}
+<!-- <iframe width="560"
         height="315"
         src="https://www.youtube.com/embed/7D5BvkOPrvs" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        allowfullscreen></iframe> -->
