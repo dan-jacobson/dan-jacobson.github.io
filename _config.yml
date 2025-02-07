@@ -18,9 +18,9 @@ photo: assets/files/photo.jpg
 # profile links
 profile:
   mail: mailto:danrowejacobson@gmail.com
-  linkedin: https://www.linkedin.com/in/daniel-rowe-jacobson
   github: https://github.com/danjacobson
-  goodreads: https://www.goodreads.com/user/show/46060439-dan-jacobson
+  linkedin: https://www.linkedin.com/in/daniel-rowe-jacobson
+  # goodreads: https://www.goodreads.com/user/show/46060439-dan-jacobson
 
 # build settings
 permalink: pretty
