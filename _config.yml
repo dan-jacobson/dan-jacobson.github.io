@@ -1,62 +1,59 @@
-site: dan
-url: danjacobson.net
 title: dan jacobson
-description: a personal blog and website for dan jacobson
-twitter:
-  username: danrowejacobson
-  card: summary
-  creator: dan jacobson
-author:
-  twitter: #yourusername
-  name: dan jacobson
-  avatar:
-  email: danrowejacobson@gmail.com
-  url: #yoururl
-permalink: pretty
-
+description: machine learning engineer
 baseurl: ""
+url: https:danjacobson.net 
 
-highlighter: none
+theme: cvless
 
+# site settings
+taglong: Dan Jacobson's personal website
+tagshort: Dan's website
+
+# author settings
+author:
+  name: Dan Jacobson
+  email: danrowejacobson@gmail.com
+photo: assets/files/photo.jpg
+
+# profile links
+profile:
+  mail: mailto:danrowejacobson@gmail.com
+  linkedin: https://www.linkedin.com/in/daniel-rowe-jacobson
+  github: https://github.com/danjacobson
+  goodreads: https://www.goodreads.com/user/show/46060439-dan-jacobson
+
+# build settings
+permalink: pretty
 exclude:
-  - .jekyll-cache
-
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+  - demo/
+  - cvless.gemspec
+  - Gemfile
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - vendor/
+  - docker-compose.yml
 
 plugins:
-  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
+sass:
+  style: compressed
+  sourcemap: never
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
