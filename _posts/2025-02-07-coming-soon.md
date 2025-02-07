@@ -1,5 +1,3 @@
-## Coming soon
-
 I have a bunch of stuff I want to write about, such as:
 * Making doggelganger (my app)
 * Training RL agents for Euchre (probably the most important card game known to man)
