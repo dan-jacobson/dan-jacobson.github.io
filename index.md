@@ -15,7 +15,7 @@ I've worked as a diabetes researcher, a biomedical engineer, and a data scientis
 
 To perusing more, find my [full cv](cv), or download a [my resume](assets/files/cv.pdf).
 
-I occationally write about things on [my blog](posts). 
+I keep meaning to write about things on [my blog](posts), but I keep not getting around to it. 
 
 <!-- Most recently, I've been working on: -->
 
