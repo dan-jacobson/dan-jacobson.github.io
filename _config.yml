@@ -18,21 +18,20 @@ photo: assets/files/photo.jpg
 # profile links
 profile:
   mail: mailto:danrowejacobson@gmail.com
-  github: https://github.com/danjacobson
+  github: https://github.com/dan-jacobson
   linkedin: https://www.linkedin.com/in/daniel-rowe-jacobson
   # goodreads: https://www.goodreads.com/user/show/46060439-dan-jacobson
 
 # build settings
 permalink: pretty
 exclude:
-  - demo/
   - cvless.gemspec
   - Gemfile
   - LICENSE
   - README.md
-  - screenshot.png
   - vendor/
   - docker-compose.yml
+  - _posts_archive
 
 plugins:
   - jekyll-feed
