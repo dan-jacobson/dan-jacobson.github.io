@@ -1,4 +1,4 @@
-## Backlog
+## Post Backlog
 
 * Making doggelganger
 
@@ -10,3 +10,9 @@
 * Playing racketlon
 
 * Are we all tech-leads now?
+
+## Feature backlog
+
+* Reacts for every sentance on the website. or like, in a blog post.
+
+* RAG-this-website. So people can ask questions about my history, life, writing.
