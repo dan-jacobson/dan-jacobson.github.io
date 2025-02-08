@@ -1,7 +1,7 @@
 I have a bunch of stuff I want to write about, such as:
-* Making doggelganger (my app)
-* Training RL agents for Euchre (probably the most important card game known to man)
-* Books I've enjoyed recently
+* Why do dogs look like their owners -- is it your fault?
+* Plants don't make your apartment's air any cleaner :(
+* Does NYC have the best weather
+* Euchre I hardly know 'er
 * Playing racketlon
 * Things I'm reading
-* Are we all tech-leads now?
