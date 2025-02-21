@@ -13,7 +13,7 @@ Recently, I've been building our in-house [Foundation Model Platform](https://ww
 
 I've worked as a diabetes researcher, a biomedical engineer, and a data scientist. I've built products across computer vision, NLP, time series, and RL. Some of them I can talk about. I've shipped linear models, custom transformer architectures, and a lot of CatBoost in between.
 
-To perusing more, find my [full cv](/cv), or download a [my resume](assets/files/cv.pdf).
+To peruse more, find my [full cv](/cv), or download a [my resume](assets/files/cv.pdf).
 
 I keep meaning to write about things on [my blog](/posts), but I keep not getting around to it. 
 
