@@ -4,6 +4,14 @@ This is my (dan jacobson) portfolio website. It's designed to be mostly professi
 
 Currently, the website is a Jekyll static site, using the [cvless theme](https://github.com/piazzai/cvless) from Michele Piazzai (and others).  
 
+## Features
+
+The site offers some fun stuff. Links to my email, linkedin, and github. My CV, which can be easily downloaded in digestible resume form. A `particle.js`-based cute little broccoli emoji background.
+
+I'm also working on adding additional functionality. Namely:
+- A blog (lol),
+- A projects page (it's in the works I promise),
+- Interactivity via emoji-reacts to some of the pages on the site.
 
 ## Installation
 
