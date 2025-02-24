@@ -5,11 +5,13 @@
 * Training RL agents for Euchre (probably the most important card game known to man)
 
 * Books I've enjoyed recently
-* Things I'm reading
+
+* Lessons ML should not learn from Software Engineering
 
 * Playing racketlon
 
 * Are we all tech-leads now?
+
 
 ## Feature backlog
 
