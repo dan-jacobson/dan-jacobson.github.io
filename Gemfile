@@ -2,15 +2,17 @@
 
 source "https://rubygems.org"
 
-# This used to be in stdlib
-gem "base64"
-gem "bigdecimal"
-gem "logger"
+# gem "rails"
 
-# Jekyll stuff
-gem "jekyll-feed"
-gem "jekyll-gist"
+gem "base64", "~> 0.2.0"
+gem "bigdecimal", "~> 3.1"
+gem "logger", "~> 1.6"
+
+gem "jekyll-feed", "~> 0.17.0"
+gem "jekyll-gist", "~> 1.5"
 gem "jekyll-paginate-v2", "~> 3.0"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
-gem "kramdown-parser-gfm"
+gem "jekyll-seo-tag", "~> 2.8"
+gem "jekyll-sitemap", "~> 1.4"
+
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "webrick", "~> 1.9"
